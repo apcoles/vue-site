@@ -1,0 +1,1 @@
+import{_ as n,c as t,a as s,o}from"./index-Cf5AT3uI.js";const r={};function a(c,e){return o(),t("div",null,[...e[0]||(e[0]=[s("h1",null,"Testing",-1)])])}const i=n(r,[["render",a]]);export{i as default};
